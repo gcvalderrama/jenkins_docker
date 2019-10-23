@@ -20,9 +20,10 @@ This script will use groovy scripting and create a setup Jenkins in a local work
 
 - bash run.bash
 
-navigate to http://localhot:8080, 
+* navigate to http://localhot:8080, 
 default user: test, password: test
 
+* navigate to petclinic job and build now, this job will build spring pet clinic project.
 
 ### change username or password 
 
