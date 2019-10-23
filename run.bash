@@ -1,0 +1,1 @@
+docker run -d -p=8080:8080 -e JENKINS_USERNAME='test' -e JENKINS_PASSWORD='test' jenkins 
